@@ -1,0 +1,62 @@
+C:\Belezza Studio\Belezza Studio\bin\Debug\net8.0\appsettings.Development.json
+C:\Belezza Studio\Belezza Studio\bin\Debug\net8.0\appsettings.json
+C:\Belezza Studio\Belezza Studio\bin\Debug\net8.0\Belezza Studio.staticwebassets.runtime.json
+C:\Belezza Studio\Belezza Studio\bin\Debug\net8.0\Belezza Studio.exe
+C:\Belezza Studio\Belezza Studio\bin\Debug\net8.0\Belezza Studio.deps.json
+C:\Belezza Studio\Belezza Studio\bin\Debug\net8.0\Belezza Studio.runtimeconfig.json
+C:\Belezza Studio\Belezza Studio\bin\Debug\net8.0\Belezza Studio.dll
+C:\Belezza Studio\Belezza Studio\bin\Debug\net8.0\Belezza Studio.pdb
+C:\Belezza Studio\Belezza Studio\obj\Debug\net8.0\Belezza Studio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Belezza Studio\Belezza Studio\obj\Debug\net8.0\Belezza Studio.AssemblyInfoInputs.cache
+C:\Belezza Studio\Belezza Studio\obj\Debug\net8.0\Belezza Studio.AssemblyInfo.cs
+C:\Belezza Studio\Belezza Studio\obj\Debug\net8.0\Belezza Studio.csproj.CoreCompileInputs.cache
+C:\Belezza Studio\Belezza Studio\obj\Debug\net8.0\Belezza Studio.MvcApplicationPartsAssemblyInfo.cache
+C:\Belezza Studio\Belezza Studio\obj\Debug\net8.0\Belezza Studio.RazorAssemblyInfo.cache
+C:\Belezza Studio\Belezza Studio\obj\Debug\net8.0\Belezza Studio.RazorAssemblyInfo.cs
+C:\Belezza Studio\Belezza Studio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Belezza Studio\Belezza Studio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Belezza Studio\Belezza Studio\obj\Debug\net8.0\staticwebassets\msbuild.Belezza Studio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Belezza Studio\Belezza Studio\obj\Debug\net8.0\staticwebassets\msbuild.build.Belezza Studio.props
+C:\Belezza Studio\Belezza Studio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Belezza Studio.props
+C:\Belezza Studio\Belezza Studio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Belezza Studio.props
+C:\Belezza Studio\Belezza Studio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Belezza Studio\Belezza Studio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Belezza Studio\Belezza Studio\obj\Debug\net8.0\scopedcss\bundle\Belezza Studio.styles.css
+C:\Belezza Studio\Belezza Studio\obj\Debug\net8.0\scopedcss\projectbundle\Belezza Studio.bundle.scp.css
+C:\Belezza Studio\Belezza Studio\obj\Debug\net8.0\Belezza Studio.dll
+C:\Belezza Studio\Belezza Studio\obj\Debug\net8.0\refint\Belezza Studio.dll
+C:\Belezza Studio\Belezza Studio\obj\Debug\net8.0\Belezza Studio.pdb
+C:\Belezza Studio\Belezza Studio\obj\Debug\net8.0\Belezza Studio.genruntimeconfig.cache
+C:\Belezza Studio\Belezza Studio\obj\Debug\net8.0\ref\Belezza Studio.dll
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\bin\Debug\net8.0\appsettings.json
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\bin\Debug\net8.0\Belezza Studio.staticwebassets.runtime.json
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\bin\Debug\net8.0\Belezza Studio.exe
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\bin\Debug\net8.0\Belezza Studio.deps.json
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\bin\Debug\net8.0\Belezza Studio.runtimeconfig.json
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\bin\Debug\net8.0\Belezza Studio.dll
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\bin\Debug\net8.0\Belezza Studio.pdb
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\obj\Debug\net8.0\Belezza Studio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\obj\Debug\net8.0\Belezza Studio.AssemblyInfoInputs.cache
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\obj\Debug\net8.0\Belezza Studio.AssemblyInfo.cs
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\obj\Debug\net8.0\Belezza Studio.csproj.CoreCompileInputs.cache
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\obj\Debug\net8.0\Belezza Studio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\obj\Debug\net8.0\Belezza Studio.RazorAssemblyInfo.cache
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\obj\Debug\net8.0\Belezza Studio.RazorAssemblyInfo.cs
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\obj\Debug\net8.0\Belezza Studio.sourcelink.json
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\obj\Debug\net8.0\staticwebassets\msbuild.Belezza Studio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\obj\Debug\net8.0\staticwebassets\msbuild.build.Belezza Studio.props
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Belezza Studio.props
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Belezza Studio.props
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\obj\Debug\net8.0\scopedcss\bundle\Belezza Studio.styles.css
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\obj\Debug\net8.0\scopedcss\projectbundle\Belezza Studio.bundle.scp.css
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\obj\Debug\net8.0\Belezza Studio.dll
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\obj\Debug\net8.0\refint\Belezza Studio.dll
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\obj\Debug\net8.0\Belezza Studio.pdb
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\obj\Debug\net8.0\Belezza Studio.genruntimeconfig.cache
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\obj\Debug\net8.0\ref\Belezza Studio.dll
+C:\Users\Aluno Noite\Documents\Belezza-Studio\Belezza Studio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout_Gerenciamento.cshtml.rz.scp.css

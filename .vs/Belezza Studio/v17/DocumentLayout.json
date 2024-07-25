@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F43E69E-9B26-489D-9A3A-5D7967407A7D}|Belezza Studio\\Belezza Studio.csproj|c:\\users\\aluno noite\\documents\\belezza-studio\\belezza studio\\views\\servico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F43E69E-9B26-489D-9A3A-5D7967407A7D}|Belezza Studio\\Belezza Studio.csproj|solutionrelative:belezza studio\\views\\servico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F43E69E-9B26-489D-9A3A-5D7967407A7D}|Belezza Studio\\Belezza Studio.csproj|c:\\users\\aluno noite\\documents\\belezza-studio\\belezza studio\\views\\agendamento\\gerenciamento_agendamento_usuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F43E69E-9B26-489D-9A3A-5D7967407A7D}|Belezza Studio\\Belezza Studio.csproj|solutionrelative:belezza studio\\views\\agendamento\\gerenciamento_agendamento_usuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F43E69E-9B26-489D-9A3A-5D7967407A7D}|Belezza Studio\\Belezza Studio.csproj|c:\\users\\aluno noite\\documents\\belezza-studio\\belezza studio\\views\\agendamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F43E69E-9B26-489D-9A3A-5D7967407A7D}|Belezza Studio\\Belezza Studio.csproj|solutionrelative:belezza studio\\views\\agendamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\Views\\Servico\\Index.cshtml",
+              "RelativeDocumentMoniker": "Belezza Studio\\Views\\Servico\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\Views\\Servico\\Index.cshtml",
+              "RelativeToolTip": "Belezza Studio\\Views\\Servico\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T20:17:11.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gerenciamento_Agendamento_Usuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\Views\\Agendamento\\Gerenciamento_Agendamento_Usuario.cshtml",
+              "RelativeDocumentMoniker": "Belezza Studio\\Views\\Agendamento\\Gerenciamento_Agendamento_Usuario.cshtml",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\Views\\Agendamento\\Gerenciamento_Agendamento_Usuario.cshtml",
+              "RelativeToolTip": "Belezza Studio\\Views\\Agendamento\\Gerenciamento_Agendamento_Usuario.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T20:14:31.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\Views\\Agendamento\\Index.cshtml",
+              "RelativeDocumentMoniker": "Belezza Studio\\Views\\Agendamento\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\Views\\Agendamento\\Index.cshtml",
+              "RelativeToolTip": "Belezza Studio\\Views\\Agendamento\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T20:09:38.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
