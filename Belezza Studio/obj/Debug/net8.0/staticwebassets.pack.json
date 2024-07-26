@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\css\\responsive.css"
     },
     {
+      "Id": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\wwwroot\\css\\submenu.css",
+      "PackagePath": "staticwebassets\\css\\submenu.css"
+    },
+    {
       "Id": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },

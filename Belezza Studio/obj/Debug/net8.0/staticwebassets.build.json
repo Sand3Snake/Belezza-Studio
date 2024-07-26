@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "z3qLb2TJbMGEv7i+1mD4q7gGOtoG4DsChd6BNaA1iu8=",
+  "Hash": "/T/5ce8zXtqMO1lVHqxLneXTCqThcMBEA5Nc6mvJvek=",
   "Source": "Belezza Studio",
   "BasePath": "_content/Belezza Studio",
   "Mode": "Default",
@@ -129,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\wwwroot\\css\\submenu.css",
+      "SourceId": "Belezza Studio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\wwwroot\\",
+      "BasePath": "_content/Belezza Studio",
+      "RelativePath": "css/submenu.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\submenu.css"
     },
     {
       "Identity": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\wwwroot\\favicon.ico",
