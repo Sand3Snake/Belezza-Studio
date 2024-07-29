@@ -1,122 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{9F43E69E-9B26-489D-9A3A-5D7967407A7D}|Belezza Studio\\Belezza Studio.csproj|c:\\users\\aluno noite\\documents\\belezza-studio\\belezza studio\\views\\agendamento\\cadastro_agendamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F43E69E-9B26-489D-9A3A-5D7967407A7D}|Belezza Studio\\Belezza Studio.csproj|solutionrelative:belezza studio\\views\\agendamento\\cadastro_agendamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F43E69E-9B26-489D-9A3A-5D7967407A7D}|Belezza Studio\\Belezza Studio.csproj|c:\\users\\aluno noite\\documents\\belezza-studio\\belezza studio\\views\\shared\\_layout _cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F43E69E-9B26-489D-9A3A-5D7967407A7D}|Belezza Studio\\Belezza Studio.csproj|solutionrelative:belezza studio\\views\\shared\\_layout _cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F43E69E-9B26-489D-9A3A-5D7967407A7D}|Belezza Studio\\Belezza Studio.csproj|c:\\users\\aluno noite\\documents\\belezza-studio\\belezza studio\\views\\shared\\_layout_gerenciamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F43E69E-9B26-489D-9A3A-5D7967407A7D}|Belezza Studio\\Belezza Studio.csproj|solutionrelative:belezza studio\\views\\shared\\_layout_gerenciamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F43E69E-9B26-489D-9A3A-5D7967407A7D}|Belezza Studio\\Belezza Studio.csproj|c:\\users\\aluno noite\\documents\\belezza-studio\\belezza studio\\wwwroot\\css\\submenu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9F43E69E-9B26-489D-9A3A-5D7967407A7D}|Belezza Studio\\Belezza Studio.csproj|solutionrelative:belezza studio\\wwwroot\\css\\submenu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F43E69E-9B26-489D-9A3A-5D7967407A7D}|Belezza Studio\\Belezza Studio.csproj|c:\\users\\aluno noite\\documents\\belezza-studio\\belezza studio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F43E69E-9B26-489D-9A3A-5D7967407A7D}|Belezza Studio\\Belezza Studio.csproj|solutionrelative:belezza studio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F43E69E-9B26-489D-9A3A-5D7967407A7D}|Belezza Studio\\Belezza Studio.csproj|c:\\users\\aluno noite\\documents\\belezza-studio\\belezza studio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F43E69E-9B26-489D-9A3A-5D7967407A7D}|Belezza Studio\\Belezza Studio.csproj|solutionrelative:belezza studio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 100,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout _Cadastro.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\Views\\Shared\\_Layout _Cadastro.cshtml",
-              "RelativeDocumentMoniker": "Belezza Studio\\Views\\Shared\\_Layout _Cadastro.cshtml",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\Views\\Shared\\_Layout _Cadastro.cshtml",
-              "RelativeToolTip": "Belezza Studio\\Views\\Shared\\_Layout _Cadastro.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-26T19:39:15.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Cadastro_Agendamento.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\Views\\Agendamento\\Cadastro_Agendamento.cshtml",
-              "RelativeDocumentMoniker": "Belezza Studio\\Views\\Agendamento\\Cadastro_Agendamento.cshtml",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\Views\\Agendamento\\Cadastro_Agendamento.cshtml",
-              "RelativeToolTip": "Belezza Studio\\Views\\Agendamento\\Cadastro_Agendamento.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-26T19:38:54.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Belezza Studio\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Belezza Studio\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAG8AAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-26T19:27:13.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "submenu.css",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\wwwroot\\css\\submenu.css",
-              "RelativeDocumentMoniker": "Belezza Studio\\wwwroot\\css\\submenu.css",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\wwwroot\\css\\submenu.css",
-              "RelativeToolTip": "Belezza Studio\\wwwroot\\css\\submenu.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-26T19:26:35.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Belezza Studio\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Belezza Studio\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAOUCAAAAAAAAAAAAAPQCAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-26T19:23:44.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout_Gerenciamento.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\Views\\Shared\\_Layout_Gerenciamento.cshtml",
-              "RelativeDocumentMoniker": "Belezza Studio\\Views\\Shared\\_Layout_Gerenciamento.cshtml",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\Views\\Shared\\_Layout_Gerenciamento.cshtml",
-              "RelativeToolTip": "Belezza Studio\\Views\\Shared\\_Layout_Gerenciamento.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAADwvw8AAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-26T19:22:52.466Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

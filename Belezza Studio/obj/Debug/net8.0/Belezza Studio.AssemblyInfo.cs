@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Belezza Studio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6d00f3ceda4ea7a73d12db25749dd9006eb4ac0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bbbcdf5cf296aa8ddd661ff7814ceeb52b2a14e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Belezza Studio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Belezza Studio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

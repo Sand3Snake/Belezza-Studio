@@ -1,52 +1,3 @@
-/* _content/Belezza Studio/Views/Shared/_Layout _Cadastro.cshtml.rz.scp.css */
-/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
-for details on configuring this project to bundle and minify static web assets. */
-
-a.navbar-brand[b-u8mc891zoz] {
-  white-space: normal;
-  text-align: center;
-  word-break: break-all;
-}
-
-a[b-u8mc891zoz] {
-  color: #0077cc;
-}
-
-.btn-primary[b-u8mc891zoz] {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
-}
-
-.nav-pills .nav-link.active[b-u8mc891zoz], .nav-pills .show > .nav-link[b-u8mc891zoz] {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
-}
-
-.border-top[b-u8mc891zoz] {
-  border-top: 1px solid #e5e5e5;
-}
-.border-bottom[b-u8mc891zoz] {
-  border-bottom: 1px solid #e5e5e5;
-}
-
-.box-shadow[b-u8mc891zoz] {
-  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
-}
-
-button.accept-policy[b-u8mc891zoz] {
-  font-size: 1rem;
-  line-height: inherit;
-}
-
-.footer[b-u8mc891zoz] {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  white-space: nowrap;
-  line-height: 60px;
-}
 /* _content/Belezza Studio/Views/Shared/_Layout.cshtml.rz.scp.css */
 /* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
@@ -90,6 +41,55 @@ button.accept-policy[b-it24h02gul] {
 }
 
 .footer[b-it24h02gul] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/Belezza Studio/Views/Shared/_Layout_Cadastro.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-hlq3d76qaf] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-hlq3d76qaf] {
+  color: #0077cc;
+}
+
+.btn-primary[b-hlq3d76qaf] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-hlq3d76qaf], .nav-pills .show > .nav-link[b-hlq3d76qaf] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-hlq3d76qaf] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-hlq3d76qaf] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-hlq3d76qaf] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-hlq3d76qaf] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-hlq3d76qaf] {
   position: absolute;
   bottom: 0;
   width: 100%;
