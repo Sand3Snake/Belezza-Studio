@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\Belezza Studio.csproj": {}
+    "C:\\Users\\Aluno Noite\\Downloads\\Belezza-Studio\\Belezza Studio\\Belezza Studio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\Belezza Studio.csproj": {
+    "C:\\Users\\Aluno Noite\\Downloads\\Belezza-Studio\\Belezza Studio\\Belezza Studio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\Belezza Studio.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno Noite\\Downloads\\Belezza-Studio\\Belezza Studio\\Belezza Studio.csproj",
         "projectName": "Belezza Studio",
-        "projectPath": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\Belezza Studio.csproj",
+        "projectPath": "C:\\Users\\Aluno Noite\\Downloads\\Belezza-Studio\\Belezza Studio\\Belezza Studio.csproj",
         "packagesPath": "C:\\Users\\Aluno Noite\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno Noite\\Documents\\Belezza-Studio\\Belezza Studio\\obj\\",
+        "outputPath": "C:\\Users\\Aluno Noite\\Downloads\\Belezza-Studio\\Belezza Studio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno Noite\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,28 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
